@@ -1,5 +1,5 @@
 Manifest-Version: 1.0
-Built-By: ariu270288
+Built-By: Artiom
 Build-Jdk: 1.8.0_144
 Created-By: Maven Integration for Eclipse
 
